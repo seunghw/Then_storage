@@ -11,3 +11,5 @@
 <br>
 
 - [예외처리(PL_exception)](https://github.com/seunghw/Then_storage/blob/main/PL_exception.md)
+
+- [함수(JS_DeepDive_function)](https://github.com/seunghw/Then_storage/blob/main/JS_DeepDive_function.md)
