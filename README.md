@@ -35,6 +35,13 @@
 - 11. 원시 값과 객체의 비교
       <br><br>
 - [함수(JS_DeepDive_function)](https://github.com/seunghw/Then_storage/blob/main/JS_DeepDive_function.md)
+  <br><br>
+- 13. 스코프
+      <br><br>
+- 14. 전역 변수의 문제점
+      <br><br>
+- 15. let, const 키워드와 블록 레벨 스코프
+      <br><br>
 
 <br>
 
